@@ -1,0 +1,4 @@
+name: LootChest
+version: '${project.version}'
+main: de.palkuchen.cakecloud.lootchest.LootChest
+api-version: '1.20'
